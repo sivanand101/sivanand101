@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sivanand</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack** and Deep Learning using Tensorflow
 
 - 📫 How to reach me **sivanandm010@gmail.com**
+
+- 🤖 Always Ready for Building Something **Cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
